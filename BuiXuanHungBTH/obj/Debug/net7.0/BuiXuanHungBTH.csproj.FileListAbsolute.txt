@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\BuiXuanHungBTH\BuiXuanHungBTH\obj\Debug\net7.0\BuiXuanHungBTH.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\BuiXuanHungBTH\BuiXuanHungBTH\obj\Debug\net7.0\BuiXuanHungBTH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\BuiXuanHungBTH\BuiXuanHungBTH\obj\Debug\net7.0\BuiXuanHungBTH.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\BuiXuanHungBTH\BuiXuanHungBTH\obj\Debug\net7.0\BuiXuanHungBTH.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\BuiXuanHungBTH\BuiXuanHungBTH\obj\Debug\net7.0\BuiXuanHungBTH.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\BuiXuanHungBTH\BuiXuanHungBTH\obj\Debug\net7.0\BuiXuanHungBTH.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\BuiXuanHungBTH\BuiXuanHungBTH\obj\Debug\net7.0\BuiXuanHungBTH.RazorAssemblyInfo.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\BuiXuanHungBTH\BuiXuanHungBTH\obj\Debug\net7.0\BuiXuanHungBTH.RazorAssemblyInfo.cs

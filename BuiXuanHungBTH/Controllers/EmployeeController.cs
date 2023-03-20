@@ -1,13 +1,25 @@
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using BuiXuanHungBTH.Models;
 
-namespace BuiXuanHungBTH.Controllers;
-
-    public class EmployeeController : Controller 
+namespace BuiXuanHungBTH.Controllers
+{
+    public class EmployeeController : Controller
     {
         public IActionResult Index()
-    {
-        return View();
+        {
+            return View();
+        }
+        [HttpPost]
+         public IActionResult Index(string FullName)
+        {
+            string strReturn = "Hello " + FullName;
+            //gui du lieu ve view
+            ViewBag.thongbao = strReturn;
+            return View();
+            //tra ve danh sach cac sinh vien trong Database
+        }
+         public IActionResult About()
+        {
+            return View();
+        }
     }
-    }
+}
